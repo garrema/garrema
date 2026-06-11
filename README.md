@@ -52,7 +52,7 @@ Automated ticket categorization, prioritization, and technician assignment using
 ### 📊 Workforce Optimization Engine
 > Python · Linear Programming · Constraint Optimization
 
-Scheduling model that achieved **100% shift coverage with zero constraint violations** across 400+ decision variables and 1,000+ constraints — cutting operational costs by 10–12%.
+Scheduling model that achieved **100% shift coverage with zero constraint violations** across 400+ decision variables and 1,000+ constraints cutting operational costs by 10–12%.
 
 ---
 
