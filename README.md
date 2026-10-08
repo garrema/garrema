@@ -10,7 +10,7 @@ CS student at the **University of Cincinnati** (Class of 2029) with a 3.74 GPA, 
 
 - 🎓 B.S. Computer Science @ UC — University Honors Program, Dean's List (×4), Cincinnatus Scholar
 - 💼 Previously: **Data Analyst Intern** @ Unistem | **Web Developer Intern** @ Vijaya
-- 🔭 Currently: Exploring backend systems, optimization algorithms, and AI-driven automation
+- 🔭 Currently: Software Developer at Thought GPS
 - 🌱 Learning: System design, cloud infrastructure, and advanced data engineering
 - 📍 Based in Cincinnati, OH
 - 📬 Reach me at: garrema@mail.uc.edu
